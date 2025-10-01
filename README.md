@@ -9,8 +9,10 @@
 
 
 
-📧 Contact / 联系方式：2176354244@qq.com
+📧 Contact / 联系方式：2176354244@qq.com  
+
 🎓 Student at Fuzhou University, Computer Science Department
+
 🎓 福州大学计算机系在读学生
 
 
