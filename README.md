@@ -25,6 +25,7 @@ Languages: **C, C++, Java, Python**
 Frontend: **Basic Web Development**
 
 📝 I’m still learning and improving. There are so many amazing developers out there, and I want to keep learning from them!
+
 📝 目前技术能力一般，但充满兴趣，正在努力学习。我看到了很多很厉害的大佬，我要不断向他们学习。
 
 
@@ -49,9 +50,11 @@ Frontend: **Basic Web Development**
 ## 🎯 Future Plans / 未来方向
 
 🌍 Considering studying abroad or working directly after graduation.
+
 🌍 未来可能出国留学，或者直接就业，不打算在国内读研。
 
 💭 Dream: **To live a free life and do what I truly love.**
+
 💭 梦想：过上自由的生活，可以做自己喜欢的事情。
 
 
